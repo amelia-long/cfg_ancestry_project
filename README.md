@@ -1,2 +1,8 @@
 # cfg_ancestry_project
-End of course project for CFG Kickstarter Data &amp; SQL
+
+<b>Ancestor Mapper MySQL db project</b>
+<br>End of course project for CFG Kickstarter Intro to Data & SQL.
+<br>May 2024
+
+
+
