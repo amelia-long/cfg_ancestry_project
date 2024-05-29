@@ -3,7 +3,7 @@
 <b>Ancestor Mapper MySQL db project</b>
 <br>End of course project for CFG Kickstarter Intro to Data & SQL, May 2024
 <br>
-<br>A db that allows me to analyse my family tree in terms of the places ancestors lived, with map links.
+<br>A db that allows me to analyse my family tree in terms of the places ancestors lived, with what3words map links.
 <br>
 <ul>
   <li>ancestry_project_backup.sql (mysqldump backup)</li>
